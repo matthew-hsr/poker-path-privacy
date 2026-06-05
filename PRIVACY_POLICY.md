@@ -57,4 +57,4 @@ Depending on your location, you may have the right to access or delete the data 
 We may update this policy from time to time. Updates will be reflected by the "Last updated" date above.
 
 ## Contact
-If you have questions about this privacy policy, please contact us at matthewh.poker.ai@gmail.com.
+If you have questions about this privacy policy, please contact us at matthewh.software@gmail.com.
