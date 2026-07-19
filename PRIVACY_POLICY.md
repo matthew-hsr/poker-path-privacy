@@ -1,6 +1,6 @@
 # Privacy Policy for PokerPath
 
-**Last updated: June 3, 2026**
+**Last updated: July 19, 2026**
 
 ## Overview
 
@@ -20,6 +20,9 @@ PokerPath ("the App") is a simulated poker game for entertainment purposes only.
 
 For more details, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
+### Crash Reporting
+- The App uses **Firebase Crashlytics** (Google) to collect crash reports. When the App crashes, Crashlytics automatically sends a report containing the device model, OS version, app version, and a stack trace. This data is used solely to identify and fix bugs. No personally identifiable information is included in crash reports. For more details, see [Google's Privacy Policy](https://policies.google.com/privacy).
+
 ### Cookies and Identifiers
 - Google AdMob may use cookies or similar technologies (the IDFA on iOS, the Advertising ID on Android) to identify your device for advertising and frequency capping.
 
@@ -34,7 +37,7 @@ For more details, see [Google's Privacy Policy](https://policies.google.com/priv
 - We do not collect your name, email, or any personal contact information.
 - We do not require account creation or login.
 - We do not collect or transmit your gameplay data to any server.
-- We do not use analytics services beyond what AdMob provides.
+- We do not use analytics services beyond what AdMob and Firebase Crashlytics provide.
 
 ## Data Sharing
 - We do not sell your data to third parties.
